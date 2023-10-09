@@ -17,7 +17,10 @@
 ![alt text](https://github.com/nosova666/DA-in-GameDev-labwork1/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-10-09%20134508.png)
 ## Задание 2
 ### Написать программу Hello World на C# с запуском на Unity. 
-
+![alt text](https://github.com/nosova666/DA-in-GameDev-labwork1/blob/main/screen2.png)
 ## Задание 3
 ### Оформить отчет в виде документации на github (markdown-разметка).
 https://github.com/nosova666/DA-in-GameDev-labwork1/blob/main/README.md
+
+## Выводы
+Во время выполнения лабораторной работы я установил необходимое ПО, ознакомился с интерфейсом Anaconda и Unity, написал простейшую программу в Jupiter Notebook и на C# с запуском на Unity.
